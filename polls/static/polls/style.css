@@ -1,0 +1,14 @@
+li a {
+    color: white;
+    font-size: 64px;
+}
+
+body {
+    background: white url("images/00010-3389708861-_lora_add_detail_1_.jpg") no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    padding: 200px;
+}
